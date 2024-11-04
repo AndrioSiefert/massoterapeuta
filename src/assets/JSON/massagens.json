@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Massagem Relaxante",
+        "description": "A massagem relaxante é uma técnica que beneficia a flexibilidade e aumenta a circulação sanguínea do corpo. Psicologicamente falando, essas manobras ajudam a acalmar e aliviar o stress.",
+        "price": 100.0,
+        "duration": 60,
+        "image": "images/massagem.png"
+    },
+    {
+        "id": 2,
+        "name": "Massagem Modeladora",
+        "description": "A massagem modeladora é uma técnica que utiliza movimentos mais fortes e profundos. A pressão aplicada é mais intensa e a velocidade dos movimentos é mais rápida.",
+        "price": 120.0,
+        "duration": 60,
+        "image": "images/massagem.png"
+    },
+    {
+        "id": 3,
+        "name": "Massagem Terapêutica",
+        "description": "A massagem terapêutica é uma técnica que utiliza movimentos mais fortes e profundos. A pressão aplicada é mais intensa e a velocidade dos movimentos é mais rápida.",
+        "price": 150.0,
+        "duration": 60,
+        "image": "images/massagem.png"
+    },
+    {
+        "id": 4,
+        "name": "Massagem Ayurvédica",
+        "description": "A massagem ayurvédica é uma técnica que utiliza movimentos mais fortes e profundos. A pressão aplicada é mais intensa e a velocidade dos movimentos é mais rápida.",
+        "price": 200.0,
+        "duration": 60,
+        "image": "images/massagem.png"
+    },
+    {
+        "id": 5,
+        "name": "Massagem Shiatsu",
+        "description": "A massagem shiatsu é uma técnica que utiliza movimentos mais fortes e profundos. A pressão aplicada é mais intensa e a velocidade dos movimentos é mais rápida.",
+        "price": 180.0,
+        "duration": 60,
+        "image": "images/massagem.png"
+    },
+    {
+        "id": 6,
+        "name": "Massagem Desportiva",
+        "description": "A massagem desportiva é uma técnica que utiliza movimentos mais fortes e profundos. A pressão aplicada é mais intensa e a velocidade dos movimentos é mais rápida.",
+        "price": 180.0,
+        "duration": 60,
+        "image": "images/massagem.png"
+    }
+]

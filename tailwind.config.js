@@ -2,6 +2,9 @@ module.exports = {
     content: ['./src/**/*.{js,jsx,ts,tsx}'],
     theme: {
         extend: {
+            fontFamily: {
+                titulo: ["'Abril Fatface'", 'cursive'], // Adicione sua fonte aqui
+            },
             colors: {
                 medical: {
                     green: '#4CAF50', // Verde calmo, frequentemente associado à saúde e regeneração
