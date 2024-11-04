@@ -20,7 +20,7 @@ export default function MassagemShared({ massagens }: MassagemSharedProps) {
                 <Link
                     key={massagem.id}
                     to={`/massagem/${massagem.id}`}
-                    className='flex-shrink-0 w-64 bg-white p-4 rounded shadow-md hover:shadow-lg transition' // Adiciona uma classe para hover e transição
+                    className='flex-shrink-0 w-64 bg-white p-4 rounded shadow-md hover:shadow-lg transition'
                 >
                     <img
                         src={massagem.image}

@@ -4,7 +4,8 @@ import Massagens from './pages/Massagens';
 import Contato from './components/Contato/Contato';
 import Rodape from './components/Rodape/Rodape';
 import Home from './pages/Home';
-import MassagemDatalhes from './components/MassagemDatalhes/MassagemDatalhes';
+import MassagemDatalhes from './pages/MassagemDatalhes/MassagemDatalhes';
+import ProdutosDetalhes from './pages/ProdutosDetalhes/ProdutosDetalhes';
 
 function RouterApp() {
     return (
@@ -20,6 +21,10 @@ function RouterApp() {
                         <Route
                             path='/massagem/:id'
                             element={<MassagemDatalhes />}
+                        />
+                        <Route
+                            path='/produto/:id'
+                            element={<ProdutosDetalhes />}
                         />
                     </Routes>
                 </main>

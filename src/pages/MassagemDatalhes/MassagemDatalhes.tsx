@@ -24,7 +24,7 @@ export default function MassagemDatalhes() {
         <div className='p-4'>
             <h1 className='text-2xl font-bold'>{massagem.name}</h1>
             <img
-                src={`/imagesMassagem/${massagem.id}/image.jpg`}
+                src={`/imagesMassagem/${massagem.id}/massagem.png`}
                 alt={massagem.name}
                 className='w-full h-64 object-cover rounded'
             />

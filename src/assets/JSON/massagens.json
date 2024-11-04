@@ -5,7 +5,7 @@
         "description": "A massagem relaxante é uma técnica que beneficia a flexibilidade e aumenta a circulação sanguínea do corpo. Psicologicamente falando, essas manobras ajudam a acalmar e aliviar o stress.",
         "price": 100.0,
         "duration": 60,
-        "image": "images/massagem.png"
+        "image": "imagesMassagem/1/massagem.png"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "description": "A massagem modeladora é uma técnica que utiliza movimentos mais fortes e profundos. A pressão aplicada é mais intensa e a velocidade dos movimentos é mais rápida.",
         "price": 120.0,
         "duration": 60,
-        "image": "images/massagem.png"
+        "image": "imagesMassagem/2/massagem.png"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "description": "A massagem terapêutica é uma técnica que utiliza movimentos mais fortes e profundos. A pressão aplicada é mais intensa e a velocidade dos movimentos é mais rápida.",
         "price": 150.0,
         "duration": 60,
-        "image": "images/massagem.png"
+        "image": "imagesMassagem/3/massagem.png"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "description": "A massagem ayurvédica é uma técnica que utiliza movimentos mais fortes e profundos. A pressão aplicada é mais intensa e a velocidade dos movimentos é mais rápida.",
         "price": 200.0,
         "duration": 60,
-        "image": "images/massagem.png"
+        "image": "imagesMassagem/4/massagem.png"
     },
     {
         "id": 5,
