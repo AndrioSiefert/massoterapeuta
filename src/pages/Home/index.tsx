@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import GoogleMaps from '../../components/GoogleMaps/GoogleMaps';
 
 export default function Home() {
     return (
@@ -102,6 +103,18 @@ export default function Home() {
                     <p className='text-gray-600 mt-2'>
                         reviews, alguma coisa, etc.
                     </p>
+                </div>
+            </div>
+            <div className='flex flex-col items-center p-6 bg-gray-900 text-white rounded-lg shadow-lg space-y-6 max-w-md mx-auto'>
+                <div className='text-center'>
+                    <h1 className='text-3xl font-bold mb-2'>
+                        ENDEREÇO DO LOCAL
+                    </h1>
+                    <p className='text-lg'>Camaquã - RS</p>
+                    <p className='text-lg'>Rua Treze de Maio, 90</p>
+                </div>
+                <div className='w-full h-64 overflow-hidden rounded-lg shadow-md'>
+                    <GoogleMaps />
                 </div>
             </div>
         </div>
